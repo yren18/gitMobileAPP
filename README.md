@@ -4,8 +4,8 @@ A GitHub client written in React Native that allows you to browse and view GitHu
 
 ## Screenshots
 
-![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s1.jpg){:height="30%" width="30%"}
-![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s2.jpg){:height="30%" width="30%"}
-![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s3.jpg){:height="30%" width="30%"}
-![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s4.jpg){:height="30%" width="30%"}
-![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s5.jpg){:height="30%" width="30%"}
+![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s1.jpg)
+![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s2.jpg)
+![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s3.jpg)
+![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s4.jpg)
+![screenshot size](https://github.com/yren18/gitMobileAPP/blob/master/source/screenshots/s5.jpg)
