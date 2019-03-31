@@ -228,7 +228,6 @@ class ProfileScreen extends Component {
                     ) : (
                         <Button onPress={() => this.follow()} title="Follow" />
                     )}
-                  <Button onPress={this._retrieveData} title="Retrieve" />
                   </View>
               </View>
               <View style={{flex: 6}} />
