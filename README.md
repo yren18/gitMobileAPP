@@ -1,6 +1,6 @@
 # gitMobileAPP
 
-A React Native App for Github
+A GitHub client written in React Native that allows you to browse and view GitHub repositories, user contents, star/unstar repositories, follow/unfollow users on mobile device.
 
 ## Screenshots
 
